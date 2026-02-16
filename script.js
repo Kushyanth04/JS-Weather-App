@@ -1,4 +1,4 @@
-const weatherApiKey = "e8c7bc1a9570a55775ea0e32ef6420e2";
+const weatherApiKey = " ";
 const weatherUrl = "https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}&units=metric";
 
 const galleryImages = [
